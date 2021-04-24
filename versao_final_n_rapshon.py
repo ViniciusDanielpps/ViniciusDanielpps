@@ -1,3 +1,4 @@
+
 import math
 import numpy as np
 """ funcoes"""
@@ -49,4 +50,3 @@ while erro_f > 1e-4:
 
 
 		
-	
